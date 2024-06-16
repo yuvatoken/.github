@@ -29,6 +29,6 @@ All code shared in this repository is licensed under the [MIT License](./LICENSE
 
 ## Contact Us
 
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to us at [contact@yuva.com](mailto:contact@yuvatoken.com).
+If you have any questions, suggestions, or just want to say hi, feel free to reach out to us at [contact@yuvatoken.com](mailto:contact@yuvatoken.com).
 
 Happy coding!
