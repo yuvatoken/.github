@@ -1,0 +1,14 @@
+{
+  "contracts": [
+    {
+      "chainName": "Ethereum",
+      "chainIcon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/768px-Ethereum-icon-purple.svg.png",
+      "contractAddress": "0xe60493303d532d5c029fC66f61D751C8a7272141"
+    },
+    {
+      "chainName": "Binance Smart Chain",
+      "chainIcon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Binance.svg/512px-Binance.svg.png",
+      "contractAddress": "0x1234567890abcdef"
+    }
+  ]
+}
