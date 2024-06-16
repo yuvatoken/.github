@@ -1,18 +1,38 @@
 [
   {
     "question": "What is Staking?",
-    "answer": "Staking allows users to earn interest by locking up their coins for a specified period. The locked coins are used to increase network security and validate transactions."
+    "answer": "Users can earn interest by locking their coins for a certain period of time. The staked coins are used to increase network security and validate transactions."
   },
   {
     "question": "What is Yield Farming?",
-    "answer": "Yield farming is a way to earn rewards with cryptocurrency holdings. In simple terms, it means locking up cryptocurrencies and getting rewards."
+    "answer": "Users can earn interest and reward coins by providing liquidity to various liquidity pools for a certain period. This system is quite popular in DeFi (Decentralized Finance) projects."
   },
   {
-    "question": "What is a Smart Contract?",
-    "answer": "A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist across a distributed, decentralized blockchain network."
+    "question": "What is Lending and Borrowing?",
+    "answer": "Users can earn interest by lending their coins to other users. At the same time, users can borrow coins and pay a certain interest rate during this process."
   },
   {
-    "question": "What is Decentralized Finance (DeFi)?",
-    "answer": "Decentralized Finance (DeFi) refers to the movement in the financial industry that leverages decentralized networks and open-source software to create transparent, permissionless, and automated financial services."
+    "question": "What is the NFT Marketplace?",
+    "answer": "Users can buy and sell digital artworks, collections, and other assets through the Non-Fungible Token (NFT) marketplace. NFTs can provide users with additional income opportunities."
+  },
+  {
+    "question": "What is Gamification?",
+    "answer": "Users can earn rewards by completing tasks in various games or contests. This system keeps users engaged and provides additional income."
+  },
+  {
+    "question": "What is the Referral Program?",
+    "answer": "Users can earn rewards by inviting new users to the platform and earning rewards from their activities. This system is effective for expanding the user base."
+  },
+  {
+    "question": "What is Liquidity Providing?",
+    "answer": "Users can earn a share of transaction fees by contributing to liquidity pools. This provides additional income for those involved in providing liquidity."
+  },
+  {
+    "question": "What is Profit Sharing?",
+    "answer": "A portion of the platform's profits can be distributed to coin holders. This allows users to directly benefit from the success of the platform."
+  },
+  {
+    "question": "What are Education and Consultancy Services?",
+    "answer": "Users can earn coins by receiving education and consultancy services on cryptocurrencies and blockchain technology. They can gain knowledge and income by participating in educational programs."
   }
 ]
