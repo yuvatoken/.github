@@ -7,7 +7,7 @@
     },
     {
       "chainName": "Binance Smart Chain",
-      "chainIcon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Binance.svg/512px-Binance.svg.png",
+      "chainIcon": "https://example.com/bsc-icon.png",
       "contractAddress": "0x1234567890abcdef"
     }
   ]
