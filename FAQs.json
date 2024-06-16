@@ -1,11 +1,18 @@
 [
-    {
-      "question": "What is Staking?",
-      "answer": "Staking allows users to earn interest by locking up their coins for a specified period. The locked coins are used to increase network security and validate transactions."
-    },
-    {
-      "question": "What is Yield Farming?",
-      "answer": "Yield farming is a way to earn rewards with cryptocurrency holdings. In simple terms, it means locking up cryptocurrencies and getting rewards."
-    }
-  ]
-  
+  {
+    "question": "What is Staking?",
+    "answer": "Staking allows users to earn interest by locking up their coins for a specified period. The locked coins are used to increase network security and validate transactions."
+  },
+  {
+    "question": "What is Yield Farming?",
+    "answer": "Yield farming is a way to earn rewards with cryptocurrency holdings. In simple terms, it means locking up cryptocurrencies and getting rewards."
+  },
+  {
+    "question": "What is a Smart Contract?",
+    "answer": "A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist across a distributed, decentralized blockchain network."
+  },
+  {
+    "question": "What is Decentralized Finance (DeFi)?",
+    "answer": "Decentralized Finance (DeFi) refers to the movement in the financial industry that leverages decentralized networks and open-source software to create transparent, permissionless, and automated financial services."
+  }
+]
