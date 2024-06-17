@@ -1,28 +1,16 @@
 {
   "timeline": [
     {
-      "timestamp": 1622520000,
-      "title": "Dinosaurs Roamed the Earth",
-      "description": "RAWWWWWWRRR 🐢🦂",
-      "labels": []
-    },
-    {
-      "timestamp": 1622520000,
-      "title": "Creative Component Launched",
-      "description": "\"We can be all things to all people!\" 📣",
-      "labels": []
-    },
-    {
-      "timestamp": 1622520000,
-      "title": "Squareflair was Born",
-      "description": "\"We can be all things to Squarespace users!\" 📣",
-      "labels": []
-    },
-    {
-      "timestamp": 1622520000,
-      "title": "Squareflair Today",
-      "description": "\"We design and build from scratch!\" 📣\nWhen we say 100% custom we mean it— and we build all sites on the Squarespace Developer platform.\nDid you know that all of our pixels are hand-forged from the rarest of subpixels grown and harvested in the Nerd Forest? 🤜💥🤛\nOur success can be measured by lives and brands enhanced by 9+ years of 100% Squarespace-focused service!",
+      "timestamp": 1672531200,
+      "title": "Future Event",
+      "description": "This is a future event description.",
       "labels": ["future"]
+    },
+    {
+      "timestamp": 1623907200,
+      "title": "Past Event",
+      "description": "This is a past event description.",
+      "labels": []
     }
   ]
 }
