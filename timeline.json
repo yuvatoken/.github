@@ -1,15 +1,23 @@
 {
   "timeline": [
     {
-      "timestamp": 1672531200,
-      "title": "Future Event",
-      "description": "This is a future event description.",
-      "labels": ["future"]
+      "timestamp": 1672536000,
+      "title": "Event Title 1",
+      "description": "Event Description 1",
+      "labels": [],
+      "more_info": "https://example.com"
     },
     {
-      "timestamp": 1623907200,
-      "title": "Past Event",
-      "description": "This is a past event description.",
+      "timestamp": 1672622400,
+      "title": "Event Title 2",
+      "description": "Event Description 2",
+      "labels": ["future"],
+      "more_info": "https://example.com"
+    },
+    {
+      "timestamp": 1672708800,
+      "title": "Event Title 3",
+      "description": "Event Description 3",
       "labels": []
     }
   ]
