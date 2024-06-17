@@ -1,24 +1,19 @@
 {
   "timeline": [
     {
-      "timestamp": 1672536000,
-      "title": "Event Title 1",
-      "description": "Event Description 1",
-      "labels": [],
-      "more_info": "https://example.com"
-    },
-    {
-      "timestamp": 1672622400,
-      "title": "Event Title 2",
-      "description": "Event Description 2",
+      "title": "Some surprises for developers",
+      "description": "Stay tuned, heroes of the world, a new innovation and convenience is coming for you.",
       "labels": ["future"],
-      "more_info": "https://example.com"
     },
     {
-      "timestamp": 1672708800,
-      "title": "Event Title 3",
-      "description": "Event Description 3",
-      "labels": []
+      "timestamp": 1718596800,
+      "title": "Website Release",
+      "description": "The face of a Web3 Project that meets the world, which is the bridge to everything."
+    {
+      "timestamp": 1718510400,
+      "title": "Ethereum Smart Contract Release",
+      "description": "Our First Step is Day 1; Not Just One Day. We are aware that gas prices are high and we promised ourselves that we would improve.",
+      "labels": [],
+      "more_info": "https://medium.com/@yuvatoken/the-genesis-of-yuva-a-new-dawn-in-blockchain-technology-a8ce2cbb34e3"
     }
   ]
-}
