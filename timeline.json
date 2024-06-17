@@ -1,24 +1,28 @@
 {
   "timeline": [
     {
-      "date": "65Million B.C.",
+      "timestamp": 1622520000,
       "title": "Dinosaurs Roamed the Earth",
-      "description": "RAWWWWWWRRR 🐢🦂"
+      "description": "RAWWWWWWRRR 🐢🦂",
+      "labels": []
     },
     {
-      "date": "2005",
+      "timestamp": 1622520000,
       "title": "Creative Component Launched",
-      "description": "\"We can be all things to all people!\" 📣"
+      "description": "\"We can be all things to all people!\" 📣",
+      "labels": []
     },
     {
-      "date": "2009",
+      "timestamp": 1622520000,
       "title": "Squareflair was Born",
-      "description": "\"We can be all things to Squarespace users!\" 📣"
+      "description": "\"We can be all things to Squarespace users!\" 📣",
+      "labels": []
     },
     {
-      "date": "2021",
+      "timestamp": 1622520000,
       "title": "Squareflair Today",
-      "description": "\"We design and build from scratch!\" 📣\nWhen we say 100% custom we mean it— and we build all sites on the Squarespace Developer platform.\nDid you know that all of our pixels are hand-forged from the rarest of subpixels grown and harvested in the Nerd Forest? 🤜💥🤛\nOur success can be measured by lives and brands enhanced by 9+ years of 100% Squarespace-focused service!"
+      "description": "\"We design and build from scratch!\" 📣\nWhen we say 100% custom we mean it— and we build all sites on the Squarespace Developer platform.\nDid you know that all of our pixels are hand-forged from the rarest of subpixels grown and harvested in the Nerd Forest? 🤜💥🤛\nOur success can be measured by lives and brands enhanced by 9+ years of 100% Squarespace-focused service!",
+      "labels": ["future"]
     }
   ]
 }
