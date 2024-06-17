@@ -3,7 +3,7 @@
     {
       "title": "Some surprises for developers",
       "description": "Stay tuned, heroes of the world, a new innovation and convenience is coming for you.",
-      "labels": ["future"],
+      "labels": ["future"]
     },
     {
       "timestamp": 1718596800,
@@ -18,3 +18,4 @@
       "more_info": "https://medium.com/@yuvatoken/the-genesis-of-yuva-a-new-dawn-in-blockchain-technology-a8ce2cbb34e3"
     }
   ]
+}
